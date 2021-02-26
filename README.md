@@ -1,6 +1,6 @@
 # StockX Profit Bot
 
-This is a discord bot that will find the profit margin you would make on a shoe with a few simple commands
+This is a discord bot that will find the profit margin from StockX with an indicator of the highest profit with a few simple commands
 
 ## Getting Started
 
