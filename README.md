@@ -10,7 +10,7 @@ Clone or download the repository, once installed cd to the file directory or ope
 
 You will need to make a discord bot at https://discord.com/developers/applications and retrive your bots token, along with having node installed on the PC you will be running the bot on https://nodejs.org/en/download/
 
-### config 
+### Config 
 
 You will have to change your footer image, embed hex color, and discord bot token. The place that this has to be replaced is commented out in the code
 
